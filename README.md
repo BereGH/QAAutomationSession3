@@ -3,6 +3,6 @@
 npm run test
 
 
-Environment variable:
+Environment variables:
 
 EXPORT TOKEN="token_"
