@@ -5,4 +5,4 @@ npm run test
 
 Environment variables:
 
-EXPORT TOKEN="token_"
+export TOKEN="token_"
